@@ -1,8 +1,7 @@
 {
   "name": "playcanvas",
   "version": "1.50.0-dev",
-  "author": "PlayCanvas <support@playcanvas.com>",
-  "homepage": "https://playcanvas.com",
+  "author": "john Oseni",
   "description": "PlayCanvas WebGL game engine",
   "keywords": [
     "3D",
@@ -20,13 +19,8 @@
   "main": "build/playcanvas.js",
   "module": "build/playcanvas.mjs",
   "types": "build/playcanvas.d.ts",
-  "bugs": {
-    "url": "https://github.com/playcanvas/engine/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/playcanvas/engine.git"
-  },
+
+
   "eslintConfig": {
     "extends": "@playcanvas/eslint-config",
     "globals": {
