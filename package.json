@@ -74,7 +74,7 @@
     "http-server": "^14.0.0",
     "jsdoc": "^3.6.7",
     "karma": "^6.3.7",
-    "karma-chrome-launcher": "3.1.0",
+    "karma-chrome-launcher": "3.1.1",
     "karma-mocha": "2.0.1",
     "karma-spec-reporter": "0.0.34",
     "mocha": "^10.0.0",
